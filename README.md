@@ -7,25 +7,21 @@
 <li>What will be predicted score if a student studies for 9.25 hrs/ day?</li>
 <li>This is a simple linear regression task as it involves just 2 variables.</li>
 <li>Dataset : http://bit.ly/w-data</li><lr>
-
-#Task2
-##Prediction using Unsupervised ML
-From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
-
-Dataset : https://bit.ly/3kXTdox
-
-#Task 3
-##Exploratory Data Analysis
-Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
-
-As a business manager, try to find out the weak areas where you can work to make more profit.
-
-What all business problems you can derive by exploring the data?
-
-Dataset: https://bit.ly/3i4rbWl
-
-#Task 4
-##Exploratory Data Analysis-Terrorism
+<br>
+<h1>Task-2</h1>
+<h2Prediction using Unsupervised ML</h2>
+<lr><li>From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.</li>
+<li>Dataset : https://bit.ly/3kXTdox </li><lr>
+<br>
+<h1>Task-3</h1>
+<h2>Exploratory Data Analysis-Retail</h2>
+<lr><li>Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’</li>
+<li>As a business manager, try to find out the weak areas where you can work to make more profit.</li>
+<li>What all business problems you can derive by exploring the data?</li>
+<li>Dataset: https://bit.ly/3i4rbWl </li></lr>
+<br>
+<h1>Task-4</h1>
+<h2>Exploratory Data Analysis-Terrorism<h2>
 Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
 As a security/defense analyst, try to find out the hot zone of terrorism.
