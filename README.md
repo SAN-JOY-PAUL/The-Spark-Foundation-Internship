@@ -45,7 +45,7 @@
 <h2>Stock Market Prediction using Numerical and Textual Analysis</h2>
 <lr><li>Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines</li>
 <li>Stock to analyze and predict - SENSEX (S&P BSE SENSEX)</li>
-<li>Download historical stock prices from finance.yahoo.com</li>
+<li>Download historical stock prices from finance.yahoo.com </li>
 <li>Download textual (news) data from https://bit.ly/36fFPI6</li></lr>
 
 <h1>Task-8</h1>
