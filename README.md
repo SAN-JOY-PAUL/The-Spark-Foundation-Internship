@@ -1,15 +1,12 @@
 <h1>Internship-Tasks</h1>
 <h2>This is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program)</h2>
 
-#Task1
-##Prediction using Supervised ML
-Predict the percentage of an student based on the no. of study hours.
-
-What will be predicted score if a student studies for 9.25 hrs/ day?
-
-This is a simple linear regression task as it involves just 2 variables.
-
-Dataset : http://bit.ly/w-data
+<h1>Task-1</h1>
+<h2>Prediction using Supervised ML</h2>
+<lr><li>Predict the percentage of an student based on the no. of study hours.</li>
+<li>What will be predicted score if a student studies for 9.25 hrs/ day?</li>
+<li>This is a simple linear regression task as it involves just 2 variables.</li>
+<li>Dataset : http://bit.ly/w-data</li><lr>
 
 #Task2
 ##Prediction using Unsupervised ML
