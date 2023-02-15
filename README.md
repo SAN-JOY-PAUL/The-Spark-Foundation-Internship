@@ -10,7 +10,7 @@
 <li>Dataset : http://bit.ly/w-data</li><lr>
 
 <h1>Task-2</h1>
-<h2Prediction using Unsupervised ML</h2>
+<h2>Prediction using Unsupervised ML</h2>
 <lr><li>From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.</li>
 <li>Dataset : https://bit.ly/3kXTdox </li><lr>
 
