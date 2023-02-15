@@ -22,7 +22,7 @@
 <li>Dataset: https://bit.ly/3i4rbWl </li></lr>
 
 <h1>Task-4</h1>
-<h2>Exploratory Data Analysis-Terrorism<h2>
+<h2>Exploratory Data Analysis-Terrorism</h2>
 <lr><li>Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’</li>
 <li>As a security/defense analyst, try to find out the hot zone of terrorism.</li>
 <li>What all security issues and insights you can derive by EDA?</li>
