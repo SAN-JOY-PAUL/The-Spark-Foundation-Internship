@@ -1,5 +1,5 @@
+<img src="https://github.com/SAN-JOY-PAUL/The-Spark-Foundation-Internship/blob/main/logo.png" width="1200" height="400">
 <h1>Internship-Tasks</h1>
-<img>src='https://www.google.com/url?sa=i&url=https%3A%2F%2Finternship.thesparksfoundation.info%2F&psig=AOvVaw2xlM4D4YpG8jJDf9KF26Q1&ust=1676537827562000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCH3KuUl_0CFQAAAAAdAAAAABAD'
 <h2>This is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program)</h2>
 
 <h1>Task-1</h1>
@@ -23,50 +23,35 @@
 
 <h1>Task-4</h1>
 <h2>Exploratory Data Analysis-Terrorism<h2>
-Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+<lr><li>Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’</li>
+<li>As a security/defense analyst, try to find out the hot zone of terrorism.</li>
+<li>What all security issues and insights you can derive by EDA?</li>
+<li>Dataset: https://bit.ly/2TK5Xn5 </li></lr>
 
-As a security/defense analyst, try to find out the hot zone of terrorism.
+<h1>Task-5</h1>
+<h2>Exploratory Data Analysis-Sports</h2>
+<lr><li>Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’</li>
+<li>As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.</li>
+<li>Suggest teams or players a company should endorse for its products.</li>
+<li>Dataset:https://bit.ly/34SRn3b </li></lr>
 
-What all security issues and insights you can derive by EDA?
+<h1>Task-6</h1>
+<h2>Prediction using Decision Tree Algorithm</h2>
+<lr><li>Create the Decision Tree classifier and visualize it graphically.</li>
+<li>The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.</li>
+<li>Dataset : https://bit.ly/3kXTdox </li></lr>
 
-Dataset: https://bit.ly/2TK5Xn5
+<h1>Task-7</li>
+<h2>Stock Market Prediction using Numerical and Textual Analysis</h2>
+<lr><li>Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines</li>
+<li>Stock to analyze and predict - SENSEX (S&P BSE SENSEX)</li>
+<li>Download historical stock prices from finance.yahoo.com</li>
+<li>Download textual (news) data from https://bit.ly/36fFPI6</li></lr>
 
-#Task 5
-##Exploratory Data Analysis - Sports
-Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
-
-As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
-
-Suggest teams or players a company should endorse for its products.
-
-Dataset:https://bit.ly/34SRn3b
-
-#Task 6
-##Prediction using Decision Tree Algorithm
-Create the Decision Tree classifier and visualize it graphically.
-
-The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
-
-Dataset : https://bit.ly/3kXTdox
-
-#Task 7
-#Stock Market Prediction using Numerical and Textual Analysis
-Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
-
-Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
-
-Download historical stock prices from finance.yahoo.com
-
-Download textual (news) data from https://bit.ly/36fFPI6
-
-#Task 8
-##Timeline Analysis : Covid-19
-Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
-
-Use animation, timeline and annotations to create attractive and interactive dashboards and story
-
-Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts
-
-Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
-
-Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+<h1>Task-8</h1>
+<h2>Timeline Analysis : Covid-19</h2>
+<lr><li>Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP</li>
+<li>Use animation, timeline and annotations to create attractive and interactive dashboards and story</li>
+<li>Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts</li>
+<li>Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.</li>
+<li>Dataset: Daily updated .csv file on https://bit.ly/30d2gdi </li></lr>
